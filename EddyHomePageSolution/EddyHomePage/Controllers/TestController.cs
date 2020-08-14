@@ -13,5 +13,20 @@ namespace EddyHomePage.Controllers
         {
             return View();
         }
+
+        public ActionResult Sample1()
+        {
+            return View();
+        }
+
+        public ActionResult Sample2()
+        {
+            return View();
+        }
+
+        public ActionResult Sample3()
+        {
+            return View();
+        }
     }
 }
